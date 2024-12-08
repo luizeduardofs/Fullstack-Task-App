@@ -1,7 +1,9 @@
 name: task_app
 
 packages:
-  - packages/**
+  - packages/backend
+  - packages/frontend
+  - packages/shared
 
 scripts:
   analyze:
